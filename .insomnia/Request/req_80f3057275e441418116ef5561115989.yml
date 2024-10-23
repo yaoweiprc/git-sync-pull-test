@@ -3,7 +3,7 @@ type: Request
 parentId: wrk_ba3c35f855d64ab38ae7bee2c037422c
 modified: 1729670497256
 created: 1729670453231
-url: https://www.baidu.com/2
+url: https://www.baidu.com/2-remote
 name: Req 2
 description: ""
 method: GET
