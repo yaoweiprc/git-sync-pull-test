@@ -1,10 +1,10 @@
-_id: req_b3c988b365d44cf6b5a5ba00c051ef31
+_id: req_80f3057275e441418116ef5561115989
 type: Request
 parentId: wrk_ba3c35f855d64ab38ae7bee2c037422c
-modified: 1729671130287
-created: 1729670449673
-url: https://www.baidu.com/3-local
-name: Req 3
+modified: 1729670497256
+created: 1729670453231
+url: https://www.baidu.com/2-remote
+name: Req 2
 description: ""
 method: GET
 body: {}
@@ -14,7 +14,7 @@ headers:
     value: insomnia/10.1.0
 authentication: {}
 preRequestScript: null
-metaSortKey: -1729670449673
+metaSortKey: -1729670453231
 isPrivate: false
 pathParameters: []
 afterResponseScript: null
