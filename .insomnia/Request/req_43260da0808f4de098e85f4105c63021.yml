@@ -1,17 +1,28 @@
 _id: req_43260da0808f4de098e85f4105c63021
 type: Request
 parentId: wrk_ba3c35f855d64ab38ae7bee2c037422c
-modified: 1730431458664
+modified: 1730431857209
 created: 1729670455484
 url: https://www.baidu.com/1
 name: Req 1 - yaowei
 description: ""
 method: POST
 body: {}
-parameters: []
+parameters:
+  - id: pair_f4c4944a1e244ca2b9f49fefad68dabf
+    name: name
+    value: curry
+    description: ""
+    disabled: false
 headers:
   - name: User-Agent
     value: insomnia/10.1.0
+    id: pair_03d03447e2bc4e3c9de8a772e4bbd862
+  - id: pair_5a434a999e6246ee82016a9026b4f956
+    name: x-tt-name
+    value: curry
+    description: ""
+    disabled: false
 authentication: {}
 preRequestScript: null
 metaSortKey: -1729670455484
