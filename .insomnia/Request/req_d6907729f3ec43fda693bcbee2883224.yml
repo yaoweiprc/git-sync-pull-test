@@ -1,0 +1,34 @@
+_id: req_d6907729f3ec43fda693bcbee2883224
+type: Request
+parentId: fld_aca600b6603d4ca9ad097b49a43e64ea
+modified: 1730432002022
+created: 1730432002022
+url: http://www.baidu.com/
+name: New Request
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: adsf
+      disabled: false
+      value: asdf
+    - type: text
+      name: afd
+      disabled: false
+      value: adf
+  mimeType: multipart/form-data
+parameters: []
+headers: []
+authentication: {}
+preRequestScript: ""
+metaSortKey: -1730432000247
+isPrivate: false
+pathParameters: null
+afterResponseScript: ""
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

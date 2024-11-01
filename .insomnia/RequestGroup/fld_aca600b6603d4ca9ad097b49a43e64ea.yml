@@ -1,0 +1,14 @@
+_id: fld_aca600b6603d4ca9ad097b49a43e64ea
+type: RequestGroup
+parentId: wrk_ba3c35f855d64ab38ae7bee2c037422c
+modified: 1730432002019
+created: 1730432002019
+name: New Collection
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1730432000248
+preRequestScript: ""
+afterResponseScript: ""
+authentication: {}
+headers: null

@@ -1,0 +1,33 @@
+_id: fld_eaa362cccef2497ba1b7e7824a5c8fec
+type: RequestGroup
+parentId: wrk_ba3c35f855d64ab38ae7bee2c037422c
+modified: 1730431936766
+created: 1730431810863
+name: Folder 1
+description: ""
+environment:
+  foo: bar
+  kitty: hello
+environmentPropertyOrder: null
+metaSortKey: -1730431810863
+preRequestScript: null
+afterResponseScript: null
+authentication: null
+headers:
+  - id: pair_72476beff092401f914142dbf00f42d8
+    name: Content-Type
+    value: application/json
+    description: ""
+    disabled: false
+environmentType: kv
+kvPairData:
+  - id: envPair_919e784a154045158554b578b139383f
+    name: foo
+    value: bar
+    type: str
+    enabled: true
+  - id: envPair_f5551bb4d9e04155be7060bedfcaa794
+    name: kitty
+    value: hello
+    type: str
+    enabled: true
