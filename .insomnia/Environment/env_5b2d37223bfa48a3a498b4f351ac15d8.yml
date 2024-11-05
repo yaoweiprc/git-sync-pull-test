@@ -1,0 +1,25 @@
+_id: env_5b2d37223bfa48a3a498b4f351ac15d8
+type: Environment
+parentId: env_fd078ade1c09171d75ef86a7404c0ddf4b648b6d
+modified: 1730787722673
+created: 1730787708440
+name: New Environment 2
+data:
+  name: aaa
+  age: "20"
+dataPropertyOrder: null
+color: null
+isPrivate: false
+metaSortKey: 1730787708440
+environmentType: kv
+kvPairData:
+  - id: envPair_8dd253a503f64e87aa02f88bed777ff4
+    name: name
+    value: aaa
+    type: str
+    enabled: true
+  - id: envPair_ae5eb4612ea6468b9199d41146f8245c
+    name: age
+    value: "20"
+    type: str
+    enabled: true
