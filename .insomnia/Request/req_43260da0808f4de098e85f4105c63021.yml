@@ -1,7 +1,7 @@
 _id: req_43260da0808f4de098e85f4105c63021
 type: Request
 parentId: wrk_ba3c35f855d64ab38ae7bee2c037422c
-modified: 1730431857209
+modified: 1730704895047
 created: 1729670455484
 url: https://www.baidu.com/1
 name: Req 1 - yaowei
@@ -24,7 +24,7 @@ headers:
     description: ""
     disabled: false
 authentication: {}
-preRequestScript: null
+preRequestScript: console.log('aaaaa');
 metaSortKey: -1729670455484
 isPrivate: false
 pathParameters: []

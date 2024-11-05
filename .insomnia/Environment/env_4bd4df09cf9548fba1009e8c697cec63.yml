@@ -1,19 +1,14 @@
 _id: env_4bd4df09cf9548fba1009e8c697cec63
 type: Environment
 parentId: env_fd078ade1c09171d75ef86a7404c0ddf4b648b6d
-modified: 1730431820647
+modified: 1730704953055
 created: 1730431795291
 name: curry Environment
 data:
   name: curry
-dataPropertyOrder: null
+dataPropertyOrder:
+  "&":
+    - name
 color: null
 isPrivate: false
 metaSortKey: 1730431795292
-environmentType: kv
-kvPairData:
-  - id: envPair_1266fed61e2b45debc1612554c48c63d
-    name: name
-    value: curry
-    type: str
-    enabled: true
