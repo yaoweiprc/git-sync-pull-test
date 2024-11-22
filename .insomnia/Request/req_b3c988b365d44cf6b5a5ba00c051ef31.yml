@@ -1,12 +1,12 @@
 _id: req_b3c988b365d44cf6b5a5ba00c051ef31
 type: Request
 parentId: wrk_ba3c35f855d64ab38ae7bee2c037422c
-modified: 1730787764134
+modified: 1732257125956
 created: 1729670449673
-url: https://www.baidu.com/3
+url: https://www.baidu.com/4
 name: Req 3
 description: ""
-method: GET
+method: POST
 body:
   mimeType: application/json
   text: '{"name": "curry"}'
