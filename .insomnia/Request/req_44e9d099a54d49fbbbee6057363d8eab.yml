@@ -1,0 +1,26 @@
+_id: req_44e9d099a54d49fbbbee6057363d8eab
+type: Request
+parentId: wrk_ba3c35f855d64ab38ae7bee2c037422c
+modified: 1732256904758
+created: 1732256884351
+url: https://httpbin.org/get
+name: Req 4
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/10.2.0-84f995c.pr-8185.0
+authentication: {}
+preRequestScript: null
+metaSortKey: -1729670449573
+isPrivate: false
+pathParameters: []
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
